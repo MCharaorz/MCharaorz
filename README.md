@@ -68,8 +68,8 @@
 
 <div align="center">
 
-<a href="https://github.com/MCharaorz/YXB-intro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MCharaorz&repo=YXB-intro&theme=dracula&border_color=ff77c2&title_color=4ff0ff&icon_color=ff77c2" alt="YXB-intro" />
+<a href=https://shika-kappa.vercel.app/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MCharaorz&repo=YXB-intro&theme=dracula&border_color=ff77c2&title_color=4ff0ff&icon_color=ff77c2" alt="MChara-intro" />
 </a>
 <a href="https://github.com/MCharaorz/MCharaorz.github.io">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MCharaorz&repo=MCharaorz.github.io&theme=dracula&border_color=ff77c2&title_color=4ff0ff&icon_color=ff77c2" alt="MCharaorz.github.io" />
